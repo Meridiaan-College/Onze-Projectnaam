@@ -10,19 +10,15 @@ You can use the [editor on GitHub](https://github.com/Meridiaan-College/Project1
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<table align="center">
-<tr>
-<td align="center" width="9999">
+<table align="center"><tr><td align="center" width="9999">
 
 # MyProject
 
-<img src="/spotfiylikeapp.gif" align="center" alt="Project icon">
+<img src="spotfiylikeapp.gif" align="center" alt="Project icon">
 
 ## Description for my awesome project
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 ### Markdown
 
