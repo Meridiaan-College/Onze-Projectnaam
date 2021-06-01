@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Animated Gig powerpoint](spotifylikeapp.gif)
+![Animated Gig powerpoint](spotfiylikeapp.gif)
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/Project1/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
