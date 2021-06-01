@@ -2,23 +2,14 @@
 
 ![Animated Gig powerpoint](spotfiylikeapp.gif)
 
+Optie 1 | Optie 2
+------------ | -------------
+Features 1 | Features 2
+Prijs optie 1 | Prijs optie 2
+
 <span style="display:block;text-align:center">![Animated Gig powerpoint](spotfiylikeapp.gif)</span>
 
-
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/Project1/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-<table align="center"><tr><td align="center" width="9999">
-
-# MyProject
-
-<img src="spotfiylikeapp.gif" align="center" alt="Project icon">
-
-## Description for my awesome project
-
-</td></tr></table>
 
 ### Markdown
 
