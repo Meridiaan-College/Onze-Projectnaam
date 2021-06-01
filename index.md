@@ -13,11 +13,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table align="center">
 <tr>
 <td align="center" width="9999">
-<img src="/spotfiylikeapp.gif" align="center" alt="Project icon">
 
 # MyProject
 
-Description for my awesome project
+<img src="/spotfiylikeapp.gif" align="center" alt="Project icon">
+
+## Description for my awesome project
+
 </td>
 </tr>
 </table>
