@@ -7,10 +7,11 @@ Gecentreerd
 
 ![Animated Gig powerpoint](spotfiylikeapp.gif)
 
+<span style="display:block;text-align:center">![Animated Gig powerpoint](spotfiylikeapp.gif)</span>
 
 <img src="spotfiylikeapp.gif"
      alt="Animated gif"
-     style="float: center; margin-right: 10px;" />
+     style="align: center;" />
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/Project1/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
